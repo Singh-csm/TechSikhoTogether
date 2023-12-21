@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://singh-csm:GIUPM5681K@singh-csm.nmfw5jk.mongodb.net/test-tech-network",
+  "jwtSecret": "mysecrettoken",
+  "githubToken": "81d36bfac59daa017164575c7c73c5ace4d14e15"
+}
